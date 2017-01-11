@@ -19,8 +19,8 @@
 // replace with your channel's thingspeak API key, 
 String apiKey = "7HC5WGZLQTM5IADV";
 //WIFI credentials go here
-const char* ssid     = "CTRLH";
-const char* password = "3216549870";
+const char* ssid     = "Noisebridge";
+const char* password = "";
 Adafruit_ADS1115 ads;  /* Use this for the 16-bit version */
 
 const char* server = "api.thingspeak.com";
